@@ -31,7 +31,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../Repositories" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -47,9 +47,21 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="278" y="324" key="SettingsEditor" timestamp="1671963102940">
+    <state x="369" y="362" key="#Plugins" timestamp="1671968189405">
       <screen x="0" y="0" width="2560" height="1392" />
     </state>
-    <state x="278" y="324" key="SettingsEditor/0.0.2560.1392/-2560.0.2560.1440@0.0.2560.1392" timestamp="1671963102940" />
+    <state x="369" y="362" key="#Plugins/0.0.2560.1392/-2560.0.2560.1440@0.0.2560.1392" timestamp="1671968189405" />
+    <state x="1559" y="0" width="1000" height="1392" key="SettingsEditor" timestamp="1671968856661">
+      <screen x="0" y="0" width="2560" height="1392" />
+    </state>
+    <state x="1559" y="0" width="1000" height="1392" key="SettingsEditor/0.0.2560.1392/-2560.0.2560.1440@0.0.2560.1392" timestamp="1671968856661" />
+    <state x="461" y="527" key="com.intellij.ide.util.TipDialog" timestamp="1671968218707">
+      <screen x="0" y="0" width="2560" height="1392" />
+    </state>
+    <state x="461" y="527" key="com.intellij.ide.util.TipDialog/0.0.2560.1392/-2560.0.2560.1440@0.0.2560.1392" timestamp="1671968218707" />
+    <state x="441" y="335" width="672" height="678" key="search.everywhere.popup" timestamp="1671968634093">
+      <screen x="0" y="0" width="2560" height="1392" />
+    </state>
+    <state x="441" y="335" width="672" height="678" key="search.everywhere.popup/0.0.2560.1392/-2560.0.2560.1440@0.0.2560.1392" timestamp="1671968634093" />
   </component>
 </project>
