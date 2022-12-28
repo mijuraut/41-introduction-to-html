@@ -49,21 +49,21 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="369" y="362" key="#Plugins" timestamp="1671968189405">
+    <state x="369" y="362" key="#Plugins" timestamp="1672226468992">
       <screen x="0" y="0" width="2560" height="1392" />
     </state>
-    <state x="369" y="362" key="#Plugins/0.0.2560.1392/-2560.0.2560.1440@0.0.2560.1392" timestamp="1671968189405" />
-    <state x="1559" y="0" width="1000" height="1392" key="SettingsEditor" timestamp="1671968856661">
+    <state x="369" y="362" key="#Plugins/0.0.2560.1392/-2560.0.2560.1440@0.0.2560.1392" timestamp="1672226468992" />
+    <state x="1559" y="0" width="1000" height="1392" key="SettingsEditor" timestamp="1672228737252">
       <screen x="0" y="0" width="2560" height="1392" />
     </state>
-    <state x="1559" y="0" width="1000" height="1392" key="SettingsEditor/0.0.2560.1392/-2560.0.2560.1440@0.0.2560.1392" timestamp="1671968856661" />
-    <state x="461" y="527" key="com.intellij.ide.util.TipDialog" timestamp="1672225469411">
+    <state x="1559" y="0" width="1000" height="1392" key="SettingsEditor/0.0.2560.1392/-2560.0.2560.1440@0.0.2560.1392" timestamp="1672228737252" />
+    <state x="461" y="527" key="com.intellij.ide.util.TipDialog" timestamp="1672226372420">
       <screen x="0" y="0" width="2560" height="1392" />
     </state>
-    <state x="461" y="527" key="com.intellij.ide.util.TipDialog/0.0.2560.1392/-2560.0.2560.1440@0.0.2560.1392" timestamp="1672225469411" />
-    <state x="441" y="335" width="672" height="678" key="search.everywhere.popup" timestamp="1671968634093">
+    <state x="461" y="527" key="com.intellij.ide.util.TipDialog/0.0.2560.1392/-2560.0.2560.1440@0.0.2560.1392" timestamp="1672226372420" />
+    <state x="441" y="335" width="672" height="678" key="search.everywhere.popup" timestamp="1672226447145">
       <screen x="0" y="0" width="2560" height="1392" />
     </state>
-    <state x="441" y="335" width="672" height="678" key="search.everywhere.popup/0.0.2560.1392/-2560.0.2560.1440@0.0.2560.1392" timestamp="1671968634093" />
+    <state x="441" y="335" width="672" height="678" key="search.everywhere.popup/0.0.2560.1392/-2560.0.2560.1440@0.0.2560.1392" timestamp="1672226447145" />
   </component>
 </project>
