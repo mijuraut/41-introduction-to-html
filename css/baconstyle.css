@@ -1,3 +1,38 @@
+/************************************** TAG SELECTORS **************************************/
+
+
 h1 {
     color: red;
+    font-size: 100px;
 }
+
+img {
+    background-color: red;
+}
+
+/************************************** CLASS SELECTORS **************************************/
+
+.bacon {
+    background-color: green;
+}
+
+.tomato1 {
+    background-color: blue;
+}
+
+.circular {
+    border-radius: 100%;
+}
+
+/************************************** PSEUDOCLASS SELECTORS **************************************/
+
+img:hover {
+    background-color: gold;
+}
+
+/************************************** ID SELECTORS **************************************/
+
+#heading {
+    color: blue;
+}
+

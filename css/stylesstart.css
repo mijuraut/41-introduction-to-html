@@ -1,0 +1,31 @@
+/*
+Color link: https://colorhunt.co/palette/f0ece3dfd3c3c7b198596e79
+1st(site background): F0ECE3
+2nd: DFD3C3
+3rd (h2-h6 font color): C7B198
+4th (h1 font color): 596E79
+*/
+
+body {
+    background-color: #F0ECE3;
+}
+
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: #E3E2D0;
+    border-width: 5px;
+    width: 5%;
+}
+
+h1 {
+    color: #596E79;
+}
+
+h2 {
+    color: #C7B198;
+}
+
+h3 {
+    color: #C7B198;
+}
