@@ -1,3 +1,14 @@
+/*
+1st(site background): F0ECE3
+2nd: DFD3C3
+3rd (h2-h6 font color): C7B198
+4th (h1 font color): 596E79
+*/
+
 body {
-    background-color: blue;
+    margin: 0;
+}
+
+h1 {
+    margin-top: 0;
 }
