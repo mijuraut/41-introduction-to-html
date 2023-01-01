@@ -1,8 +1,10 @@
-<!-- Color link: https://colorhunt.co/palette/f0ece3dfd3c3c7b198596e79 -->
-<!-- top: F0ECE3 -->
-<!-- 2nd: DFD3C3 -->
-<!-- 3rd: C7B198 -->
-<!-- bottom: 596E79 -->
+/*
+Color link: https://colorhunt.co/palette/f0ece3dfd3c3c7b198596e79
+1st(site background): F0ECE3
+2nd: DFD3C3
+3rd (h2-h6 font color): C7B198
+4th (h1 font color): 596E79
+*/
 
 body {
     background-color: #F0ECE3;
@@ -24,9 +26,6 @@ h2 {
     color: #C7B198;
 }
 
-
 h3 {
     color: #C7B198;
 }
-
-

@@ -3,10 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="b2b3bf5a-e437-41db-84ce-a72d7f0754b8" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/styles.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hobbies.html" beforeDir="false" afterPath="$PROJECT_DIR$/hobbies.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index2.html" beforeDir="false" afterPath="$PROJECT_DIR$/index2.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,6 +63,10 @@
       <screen x="0" y="0" width="2560" height="1392" />
     </state>
     <state x="461" y="527" key="com.intellij.ide.util.TipDialog/0.0.2560.1392/-2560.0.2560.1440@0.0.2560.1392" timestamp="1672226372420" />
+    <state x="702" y="634" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1672553452913">
+      <screen x="0" y="0" width="2560" height="1392" />
+    </state>
+    <state x="702" y="634" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.2560.1392/-2560.0.2560.1440@0.0.2560.1392" timestamp="1672553452913" />
     <state x="441" y="335" width="672" height="678" key="search.everywhere.popup" timestamp="1672226447145">
       <screen x="0" y="0" width="2560" height="1392" />
     </state>
