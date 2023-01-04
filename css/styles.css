@@ -7,12 +7,13 @@
 /*font-family: 'Sacramento', cursive; */
 body {
     margin: 0;
-    text-align: center; /*
-    /*background-color: #F0ECE3;*/
+    text-align: center;
+    background-color: #F0ECE3;
 	font-family: Georgia,Times,Times New Roman,serif;
 }
 
 h1 {
+    font-size: 5em; /* olden times: em, or m is the width of the capital letter M. Now 16px = 1em. */
     margin-top: 0;
     font-family: 'Sacramento', cursive;
 }
@@ -30,21 +31,41 @@ div {
 }
 
 .top-container {
-    background-color: #DFD3C3;
+    background-color: #F0ECE3;
     position: relative;
     padding-top: 100px;
 }
 
 .middle-container {
-    background-color: #C7B198;
+    background-color: #F0ECE3;
+    padding: 5px;
 }
 
 .bottom-container {
-    background-color: #596E79;
+    background-color: #C7B198;
+    padding: 5px;
 }
 
-.pro {
+.words-rotate span{
+    position: absolute;
+	opacity: 0;
+	overflow: hidden;
+	width: 100%;
+    font-weight: 700;
+    -webkit-animation: rotateWord 18s linear infinite;
+    animation: rotateWord 18s linear infinite;
+}
+.rotating-words-paragraph {
+    margin: 0 auto;
+    text-align: left;
+}
+
+.has-underline {
     text-decoration: underline;
+}
+
+.has-text-align-center {
+    text-align: center;
 }
 
 .top-cloud {
